@@ -1,0 +1,35 @@
+* {
+  font-family: sans-serif;
+}
+#outputArea, #dOutputArea {
+  word-wrap : break-word;
+  width : inherit;
+}
+#dMessage, #message {
+  width : 97vw;
+  float : left;
+  margin-left : 1vw;
+  margin-right : 1vw;
+}
+h1 {
+  margin-top : 1vw;
+}
+#dOutput, #output {
+  width : 92vw;
+  height : 5.9vw;
+  margin-top : 1vw;
+  margin-bottom : 1vw;
+  float : left;
+  background-color : #E6E6E6;
+}
+#encrypt, #decrypt {
+  margin : 1vw 1vw;
+  height : 5.9vw;
+  width : 4vw;
+  float : left;
+  font-size: 0.8vw;
+  font-weight: bold;
+}
+h1 {
+  text-align : center;
+}
